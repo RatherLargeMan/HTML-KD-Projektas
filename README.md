@@ -1,0 +1,1 @@
+Šis projektas yra skirtas Vilniaus Techin Profesinei moyklos javascript moduliui.
